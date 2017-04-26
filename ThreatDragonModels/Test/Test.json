@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test",
+    "owner": "anthonyfan"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "anthony-fn",
+    "repo": "spring-boot",
+    "branch": "master",
+    "model": "Test"
+  }
+}
